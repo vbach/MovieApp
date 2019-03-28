@@ -16,7 +16,7 @@ class App extends Component {
     return (
 
       <div>
-        <Router>
+        <Router basename="/">
           <div>
             <Header />
 
